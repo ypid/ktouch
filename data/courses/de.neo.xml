@@ -2796,7 +2796,7 @@ passwd ändert das aktuelle Passwort des jeweiligen
 Benutzers.
 ps Liefert eine Liste aller Prozesse.
 rm löscht Dateien.
-rmdir Löscht ein Verzeichnis mit dessen Inhalt.
+rmdir Löscht ein leeres Verzeichnis.
 su Wechselt den aktuellen Benutzer.
 sudo Wird dieses Kommando vor ein anderes geschrieben (mit
 Leerzeichen) so wird es mit root-Rechten (Administrator)
